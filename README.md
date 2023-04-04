@@ -1,1 +1,2 @@
 # IA-ImageGenerate
+# ImageGenerated-AI
